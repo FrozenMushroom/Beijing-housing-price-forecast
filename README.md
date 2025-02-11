@@ -1,0 +1,4 @@
+基于scikit-learn的机器学习模型，可以对北京房价进行预测
+Beijing housing price forecast用于训练并生成模型，数据在代码内
+svm_model.joblib是生成的模型，.joblib格式，本模型使用的是svm支持向量机
+Beijing housing price forecast-predict是对svm_model.joblib的调用和测试
